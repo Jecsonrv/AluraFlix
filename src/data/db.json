@@ -1,0 +1,108 @@
+{
+    "videos": [
+      {
+        "id": "3",
+        "titulo": "Consejos de CSS FlexBox para comenzar",
+        "link_video": "https://youtu.be/EB4vWLzfVcI?si=5iuu-ei6iz6AaJAS",
+        "link_imagen": "https://img.youtube.com/vi/EB4vWLzfVcI/maxresdefault.jpg",
+        "categoria": 1,
+        "descripcion": "En esta nueva edición de Alura + aprenderemos un poco más sobre los primeros pasos para empezar a trabajar con Flexbox en CSS y conoceremos las principales etiquetas y cómo aplicarlas",
+        "codigo": 12345678
+      },
+      {
+        "id": "4",
+        "titulo": "¿Por qué utilizar React?",
+        "link_video": "https://youtu.be/MnBNPA45NW8?si=ax6LWB16Tmh4ainG",
+        "link_imagen": "https://img.youtube.com/vi/MnBNPA45NW8/maxresdefault.jpg",
+        "categoria": 1,
+        "descripcion": "En el Alura.tips de hoy platicaremos con Harland Lohora, instructor Front End en la plataforma de Alura Latam, sobre la librería JS de React. Harland nos comentará como surgió React, por que utilizarlo y por que se tornó una librería tan importante en el desarrollo front end",
+        "codigo": 12345678
+      },
+      {
+        "id": "5",
+        "titulo": "Cómo volverse un desarrollador Front End",
+        "link_video": "https://youtu.be/-Ou5c3A225k?si=m6DN3eeX7pSaMCb2",
+        "link_imagen": "https://img.youtube.com/vi/-Ou5c3A225k/maxresdefault.jpg",
+        "categoria": 1,
+        "descripcion": "Terminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+        "codigo": 12345678
+      },
+      {
+        "id": "6",
+        "titulo": "La magia detrás de Java ",
+        "link_video": "https://youtu.be/GrEO8nZzyZM?si=WowvvZGODP_2m0RJ",
+        "link_imagen": "https://img.youtube.com/vi/GrEO8nZzyZM/maxresdefault.jpg",
+        "categoria": 2,
+        "descripcion": "Sabemos que el ecosistema de Java es una sopa de letras con varias siglas, y la JVM (Java Virtual Machine) es una de ellas. En este video, nuestra instructora Ellen Pimentel explica su rol y características y es más simple que la magia, es decir, de lo que uno imagina.",
+        "codigo": 12345678
+      },
+      {
+        "id": "7",
+        "titulo": "Spring Framework. ¿Qué es ? #AluraMás",
+        "link_video": "https://youtu.be/t-iqt1b2qqk?si=kL0ak5APWaKeAwQv",
+        "link_imagen": "https://img.youtube.com/vi/t-iqt1b2qqk/maxresdefault.jpg",
+        "categoria": 2,
+        "descripcion": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.¿Quieres saber más?",
+        "codigo": 12345678
+      },
+      {
+        "id": "9",
+        "titulo": "Creando un sistema Python utilizando la API de #ChatGPT | Websérie IA",
+        "link_video": "https://youtu.be/l9WNVMnddWU?si=-b40ULC6z18nS7mJ",
+        "link_imagen": "https://img.youtube.com/vi/l9WNVMnddWU/maxresdefault.jpg",
+        "categoria": 2, 
+        "descripcion": "En este emocionante episodio, te guiaremos paso a paso en la creación de un sistema Python, utilizando la API  de ChatGPT de OpenAI y Google Colab. Aprenderás a integrar tecnologías de IA a través de una API (Interfaz de Programación de Aplicaciones) para construir un asistente capaz de generar respuestas inteligentes basadas en un contexto proporcionado. Desde la configuración inicial hasta la construcción de un sistema Python, te sumergirás en el fascinante mundo de la IA y la programación colaborativa en la nube. ¡No te pierdas esta experiencia educativa y práctica!",
+        "codigo": 12345678
+      },
+      {
+        "id": "10",
+        "titulo": "¿Qué son las Soft Skills?",
+        "link_video": "https://youtu.be/vhwspfvI52k?si=2NQtq4xX5c8Qfb7M",
+        "link_imagen": "https://img.youtube.com/vi/vhwspfvI52k/maxresdefault.jpg",
+        "categoria": 3,
+        "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.?",
+        "codigo": 12345678
+      },
+      {
+        "id": "11",
+        "titulo": "Profesional en T - ¿Especialista o Generalista?",
+        "link_video": "https://youtu.be/F-egLIzggE8?si=yEUReOjds0viTAOr",
+        "link_imagen": "https://img.youtube.com/vi/F-egLIzggE8/maxresdefault.jpg",
+        "categoria": 3,
+        "descripcion": "En este video el Head de Alura Latam, Christian Velasco conversa con Gabriela Aguiar y juntos nos explican el concepto de Profesional en T, cuáles son las habilidades de este profesional y las ventajas de tener un perfil multidisciplinar.",
+        "codigo": 12345678
+      },
+      {
+        "id": "12",
+        "titulo": "Currículum, qué incluir y qué dejar fuera #AluraMás",
+        "link_video": "https://youtu.be/nzVdLC_QpnA?si=YL-c2aztxmrglY-T",
+        "link_imagen": "https://img.youtube.com/vi/nzVdLC_QpnA/maxresdefault.jpg",
+        "categoria": 1,
+        "descripcion": "¿Estás preparando tu currículum y no sabes qué información es realmente importante? En este video, te guiaré paso a paso sobre qué elementos son esenciales para incluir en tu CV y qué detalles es mejor dejar fuera. Aprenderás a destacar tus habilidades y experiencias relevantes para captar la atención de los reclutadores y aumentar tus oportunidades de conseguir el trabajo que deseas.",
+        "codigo": 12345678
+      }
+    ],
+    "categorias": [
+      {
+        "id": "1",
+        "nombre": "Front End",
+        "descripcion": "Formación de front end de Alura Latam",
+        "color": "#6BD1FF",
+        "codigo": "1"
+      },
+      {
+        "id": "2",
+        "nombre": "Back End",
+        "descripcion": "Formación de back end de Alura Latam",
+        "color": "#00C86F",
+        "codigo": "2"
+      },
+      {
+        "id": "3",
+        "nombre": "Innovación y Gestión",
+        "descripcion": "Formación de Innovación y gestión de Alura Latam",
+        "color": "#FFBA05",
+        "codigo": "3"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+.boton {
+    font-family: var(--fontSecundaria);
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    background-color: transparent;
+    color: var(--blanco);
+    padding: 5px 15px;
+    border: 2px solid var(--blanco);
+    border-radius: 10px;
+    cursor: pointer;
+}
+

@@ -1,0 +1,45 @@
+.videoMiniatura {
+    width: 432px;
+    
+}
+
+.videoMiniatura{
+    max-width: 100%;
+    height: auto;   
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom: 4px solid #2271D1;
+    box-shadow: 0px 4px 6px rgba(34, 113, 209, 0.5);
+  }
+
+
+  .cardVideo {
+    background-color: #000;
+    border-radius: 15px;
+    border: 4px solid #2271D1;
+    box-shadow: 0 0 5px rgba(34, 113, 209, 0.7), 0 0 10px rgba(34, 113, 209, 0.7), 0 0 15px rgba(34, 113, 209, 0.7), 0 0 20px ;
+    margin-bottom: 93px; 
+  }
+
+  .iconosCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  
+  .iconosPersonalizados {
+    display: flex;
+    gap: 20px;
+    color: var(--blanco);
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .iconosPersonalizados img {
+    height: 40px;
+  }
+
+  .iconosPersonalizados h4 {
+    font-size: 20px;
+    font-weight: 700;
+  }
